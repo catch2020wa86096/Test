@@ -1,3 +1,7 @@
 Testing file
 
-Changesdone-2ndAttempt
+<<<<<<< HEAD
+
+=======
+Changesdone-1st
+>>>>>>> branch1
